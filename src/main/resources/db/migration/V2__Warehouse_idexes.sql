@@ -1,0 +1,1 @@
+CREATE INDEX warehouse_coordinates_idx ON warehouse (x_coordinate, y_coordinate);
